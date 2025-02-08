@@ -87,9 +87,9 @@
   <string role="key" value="_name"></string>
   <unicode value="REDA_2025"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="38"></int>
+  <int value="39"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="37"></int>
+  <int value="38"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -1927,8 +1927,10 @@ clicking the red X next to the option."></unicode>
 &lt;p&gt;Las palabras tienen significados asociados, más de uno en ciertas ocasiones, y dichos significados pueden, en teoría, coincidir. Cuando ello ocurre, estamos en presencia de un fenómeno llamado sinonimia, entendido como una relación de semejanza o identidad de significados entre distintos significantes, pertenecientes siempre a la misma categoría gramatical.&lt;/p&gt;
 &lt;p&gt;Dicho de otro modo, dos palabras del mismo tipo que poseen prácticamente el mismo significado, a pesar de poseer distinta forma, son palabras sinónimas. Un ejemplo son las palabras lejano y distante. Sin embargo, la sinonimia no es una relación exacta, y rara vez dos palabras tienen el mismo idéntico significado, sin ningún matiz de algún tipo que las diferencie.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ejemplos:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;resources/Sinonimos-mini.png&quot; width=&quot;348&quot; height=&quot;220&quot; alt=&quot;pelotas&quot; /&gt;                                        &lt;img src=&quot;resources/maxresdefault.jpg&quot; width=&quot;387&quot; height=&quot;218&quot; alt=&quot;carros&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;             imagen tomada de mundo primaria                                                     imagen tomada de vamosaaprender         &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;resources/Sinonimos-mini.png&quot; width=&quot;348&quot; height=&quot;220&quot; alt=&quot;pelotas&quot; /&gt;        &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;                           imagen tomada de mundo primaria    &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;     &lt;img src=&quot;resources/maxresdefault.jpg&quot; width=&quot;387&quot; height=&quot;218&quot; alt=&quot;carros&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;           imagen tomada de vamosaaprender         &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -2245,8 +2247,8 @@ clicking the red X next to the option."></unicode>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Son palabras con significados opuestos o contrarios. En algunas ocasiones, los antónimos se forman anteponiendo los morfemas &lt;strong&gt;des&lt;/strong&gt;-e &lt;strong&gt;in&lt;/strong&gt;. por ejemplo, abrochar-&lt;strong&gt;des&lt;/strong&gt;abrochar, feliz-&lt;strong&gt;in&lt;/strong&gt;feliz. Ejemplos:&lt;/p&gt;
-&lt;p&gt;                                                                                                                                     &lt;img src=&quot;resources/limpio_vs_sucio.jpg&quot; width=&quot;518&quot; height=&quot;461&quot; alt=&quot;limpio vs sucio&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;                                                                                                                                                                       imagen tomada de Freepik &lt;/p&gt;
+&lt;p&gt;                                         &lt;img src=&quot;resources/limpio_vs_sucio.jpg&quot; width=&quot;518&quot; height=&quot;461&quot; alt=&quot;limpio vs sucio&quot; style=&quot;font-size: 16.8px;&quot; /&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;             &lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;          &lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;                                                                     &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;                                                                         imagen tomada de Freepik &lt;/p&gt;
 &lt;p&gt;Una palabra puede tener varios antónimos. Esto hace que podamos usar la palabra adecuada en cada caso. Por ejemplo:&lt;/p&gt;
 &lt;p&gt; &lt;img src=&quot;resources/cua.png&quot; width=&quot;513&quot; height=&quot;52&quot; alt=&quot;cua&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3669,7 +3671,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;comprender la dramática como una formade expresión artística que representa historias a través de personajes, acciones y dialogo en un escenario, explorando sus diversos tipos y reconociendo a las personas involucradas en su creación y representación.&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;comprender la dramática como una forma de expresión artística que representa historias a través de personajes, acciones y dialogo en un escenario, explorando sus diversos tipos y reconociendo a las personas involucradas en su creación y representación, esto lo harás por medio de la página donde está la explicación para continuar con un ejerció donde pondrás en práctica lo visto para terminar con una actividad que brindara un porcentaje de los conceptos que aprendiste con esta página.  &lt;/p&gt;
 &lt;p&gt;                                                                                                             Ahora darás clic en &lt;strong&gt;siguiente&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -3846,7 +3848,7 @@ clicking the red X next to the option."></unicode>
 &lt;p&gt;&lt;strong&gt;El maquillaje:&lt;/strong&gt; permite caracterizar al personaje según su edad.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;La iluminación:&lt;/strong&gt; es muy importante para crear el ambiente deseado&lt;/p&gt;
 &lt;p&gt;                                                                                                                      &lt;img src=&quot;resources/tor-conjunto-de-teatro-de-objetos-aislados-sobre-fondo-blanco-los-elementos-de-dise_C3_B1o-y-los.jpg&quot; width=&quot;450&quot; height=&quot;450&quot; alt=&quot;l&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;                                                                                                                                                             imagen tomada de 123RF&lt;/p&gt;
+&lt;p&gt;                                                                                                                                        imagen tomada de 123RF&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Las clases de textos dramáticos&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Las situaciones que presentan los textos teatrales generan diversas emociones; por ejemplo, risa, llanto o admiración. Según como se preséntenlos conflictos entre los personajes, estos textos pueden ser dramáticos, cómicos o trágicos.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;La comedia:&lt;/strong&gt; en la comedia, la risa y el humor están presentes; además, casi siempre tiene un final feliz. En las comedias, los personajes, el conflicto y la enseñanza tienen características particulares.&lt;/p&gt;
@@ -3856,6 +3858,8 @@ clicking the red X next to the option."></unicode>
 &lt;p&gt;&lt;strong&gt;El drama:&lt;/strong&gt; se representan situaciones de la vida como acontecen en la realidad, con sus alegrías y tristezas. A diferencia de la comedia y de ola tragedia, el drama no tiene un carácter definido, sino que combina aspectos trágicos y cómicos. En el dram, el desenlace puede ser feliz o triste.&lt;/p&gt;
 &lt;p&gt;                                             &lt;img src=&quot;resources/concepto-drama-genero-teatro-1024x682.jpg&quot; width=&quot;387&quot; height=&quot;258&quot; alt=&quot;lpo&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;                                                         imagen tomada de lifeder &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;                                                                                                                                                                                Ahora darás clic en &lt;strong&gt;siguiente.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -5157,7 +5161,7 @@ estudiante a responder la pregunta."></unicode>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Felicidades terminaste lo propuesto en la página.&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Felicidades terminaste lo propuesto en la página, si llegaste hasta aquí quiere decir que viste todas las unidades y finalizaste las actividades.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/on-silhouette-symbol-applause-gesture-congratulation-negative-space-isolated-illustration-vector.jpg&quot; width=&quot;194&quot; height=&quot;194&quot; alt=&quot;ouy&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -5282,7 +5286,162 @@ estudiante a responder la pregunta."></unicode>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
-           <list></list>
+           <list>
+            <instance class="exe.engine.node.Node" reference="105">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Referencia bibliográfica"></unicode>
+              <string role="key" value="idevices"></string>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="103">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="0"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="104">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="184_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="103"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Calderon,S.(2020).Aprende a aprender 3&lt;/p&gt;
+&lt;p&gt;Farías, Gilberto (28 de noviembre de 2024). Palabras homónimas. Enciclopedia Concepto. Recuperado el 8 de febrero de 2025 de https://concepto.de/palabras-homonimas/.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="104"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <none></none>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="38"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="105"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="_id"></string>
+              <unicode value="37"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="2"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Inicio:unidad%204%3A%20La%20dram%C3%A1tica%20:Finalizaci%C3%B3n%20:Referencia%20bibliogr%C3%A1fica"></string>
+              <string role="key" value="parent"></string>
+              <reference key="101"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+           </list>
           </dictionary>
          </instance>
         </list>
@@ -5321,6 +5480,8 @@ estudiante a responder la pregunta."></unicode>
    <reference key="80"></reference>
    <unicode role="key" value="35"></unicode>
    <reference key="101"></reference>
+   <unicode role="key" value="37"></unicode>
+   <reference key="105"></reference>
    <unicode role="key" value="5"></unicode>
    <reference key="29"></reference>
    <unicode role="key" value="7"></unicode>
@@ -6475,7 +6636,7 @@ estudiante a responder la pregunta."></unicode>
   <string role="key" value="scowwebsite"></string>
   <bool value="0"></bool>
   <string role="key" value="style"></string>
-  <unicode value="INTEF"></unicode>
+  <unicode value="Educaand_Adultos"></unicode>
   <string role="key" value="sugaractivityname"></string>
   <string value=""></string>
   <string role="key" value="sugarservicename"></string>
